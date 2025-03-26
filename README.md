@@ -22,9 +22,9 @@ This project performs an *Exploratory Data Analysis (EDA)* on the *Titanic datas
 - *Heatmaps*: Visualized correlations between numerical variables.  
 
 ### *4. Survival Analysis*  
-- *Gender: Women had a **74% survival rate* vs. *19% for men* (p < 0.0001).  
-- *Class: **1st-class passengers* had the highest survival rate (~63%).  
-- *Age: **Children (<12)* had better survival chances, especially in higher classes.  
+- Gender: Women had a *74% survival rate* vs. *19% for men* (p < 0.0001).  
+- Class: *1st-class passengers* had the highest survival rate (~63%).  
+- Age: *Children (<12)* had better survival chances, especially in higher classes.  
 
 ---
 
@@ -45,4 +45,4 @@ The analysis confirms *socioeconomic and demographic biases* in Titanic survival
 
 ## *🛠 Technologies Used*  
 - Python (Pandas, NumPy, Matplotlib, Seaborn)  
-- Jupyter Notebook / Google Colab
+- Google Colab
