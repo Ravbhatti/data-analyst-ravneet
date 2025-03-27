@@ -290,6 +290,9 @@ The dataset contains vehicle listings from eBay with the following key attribute
 - seaborn
 - great-expectations
 
+- ![AWS_Academy_Graduate___AWS_Academy_Cloud_Foundations_Badge20250327-24-615t49_page-0001](https://github.com/user-attachments/assets/0c4df90a-e727-4a7c-9e8d-67dbbccfdbd2)
+
+
 
 
 
