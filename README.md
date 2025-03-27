@@ -164,7 +164,9 @@ The dataset includes *Adidas US sales transactions (2020-2021)* with the followi
 ### *5. Segmentation Analysis*  
 👥 *Customer Segments:*  
 | *Segment*       | *Behavior*                          | *Revenue Contribution* |
+
 |-------------------|---------------------------------------|--------------------------|
+
 | *High-Value*    | Frequent buyers, high spending        | 58% of total sales       |
 | *Medium-Value*  | Occasional purchases, moderate spend  | 30% of total sales       |
 | *Low-Value*     | Rare purchases, low spend             | 12% of total sales       |
